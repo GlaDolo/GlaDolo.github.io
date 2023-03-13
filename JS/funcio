@@ -1,0 +1,4 @@
+{
+documentgetElementById("button class=Dirección")= funcion() 
+console.log("Rangugni, 2501, Lanus");
+}
